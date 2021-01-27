@@ -12,5 +12,6 @@ public class HelloGit {
         System.out.println("更新3");
         System.out.println("更新43");
         System.out.println("分枝1");
+        System.out.println("主干添加1");
     }
 }
